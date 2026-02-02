@@ -25,3 +25,5 @@ css_parachute_settings - Показать настройки
 css_parachute_test - Протестировать парашют
 
 css_plugins reload CS2Parachute - Перезагрузить конфигурацию
+
+ЭТОТ ПЛАГИН ФОРК ЭТОГО ПЛАГИНА https://github.com/Franc1sco/CS2-Parachute
